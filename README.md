@@ -1,17 +1,13 @@
-# Gym Management System 🏋️‍♂️
+# College Admission Analysis System 📊
 
-A clean and interactive desktop-based **Gym Management System** built using Python and Tkinter to manage gym members, registration forms, and subscriptions efficiently.
+A Python-based data analysis tool to evaluate and visualize college admission trends, branch-wise applications, and category distributions using Pandas and Matplotlib.
 
 ## 🚀 Features
-- **Member Registration Form:** User-friendly GUI interface to input member details like Name, Age, Phone Number, and Membership Plan.
-- **Input Validation:** Ensures all required fields are filled out before submission with error handling alerts.
-- **Interactive UI:** Built using Python's native **Tkinter** library for lightweight and fast execution.
-- **Data Management:** Designed to track and handle gym member records seamlessly.
+- **Data Processing:** Parses and analyzes CSV admission datasets.
+- **Data Visualization:** Generates bar charts and graphs to represent application trends across different engineering branches.
+- **Error Handling:** Robust `try-except` blocks for safe file reading.
 
-## 📊 Tech Stack
-- **Programming Language:** Python
-- **GUI Framework:** Tkinter
-- **Version Control:** Git & GitHub
-
-## 🛠️ How to Run
-1. Clone the repository:
+## 🛠️ Tech Stack
+- **Python**
+- **Pandas & Matplotlib**
+- **Git & GitHub**
